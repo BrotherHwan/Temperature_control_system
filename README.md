@@ -9,4 +9,4 @@ STM32CubeIDE, Visual Studio(.NET framework)
 <img src="./image_video/temperature_flow.png" width=800 height=500>
 
 ## 시연영상
-<img src="./image_video/Tem_Con_Sys.gif" width=400 height=300>
+<img src="./image_video/Tem_Con_Sys.gif" width=500 height=400>
