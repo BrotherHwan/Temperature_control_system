@@ -1,0 +1,11 @@
+C:\GUI(C#)\C#Project\bin\Debug\C#Project.exe.config
+C:\GUI(C#)\C#Project\bin\Debug\C#Project.exe
+C:\GUI(C#)\C#Project\bin\Debug\C#Project.pdb
+C:\GUI(C#)\C#Project\obj\Debug\C#Project.csproj.AssemblyReference.cache
+C:\GUI(C#)\C#Project\obj\Debug\C_Project.Config.resources
+C:\GUI(C#)\C#Project\obj\Debug\C_Project.Monitor.resources
+C:\GUI(C#)\C#Project\obj\Debug\C_Project.Properties.Resources.resources
+C:\GUI(C#)\C#Project\obj\Debug\C#Project.csproj.GenerateResource.cache
+C:\GUI(C#)\C#Project\obj\Debug\C#Project.csproj.CoreCompileInputs.cache
+C:\GUI(C#)\C#Project\obj\Debug\C#Project.exe
+C:\GUI(C#)\C#Project\obj\Debug\C#Project.pdb
