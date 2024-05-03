@@ -7,3 +7,6 @@ stm32f411, 온습도센서, Red LED(히터역할), DC motor&프로펠러(에어�
 STM32CubeIDE, Visual Studio(.NET framework)
 ## 흐름도
 <img src="./image_video/temperature_flow.png" width=800 height=500>
+
+## 시연영상
+<img src="./image_video/Tem_Con_Sys.gif" width=400 height=300>
