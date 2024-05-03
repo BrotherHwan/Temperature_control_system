@@ -15,4 +15,5 @@ STM32CubeIDE, Visual Studio(.NET framework)
 2. 현재온도보다 희망온도를 높아지게 설정. |희망온도 - 현재온도|의 차이가 커질수록 Red LED가 더 밝아짐.(PWM사용)<br/>
 3. 현재온도보다 희망온도를 낮아지게 설정. |희망온도 - 현재온도|의 차이가 커질수록 모터가 더 빨라짐.(PWM사용)<br/>
 <br/>
-원본영상(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) : (https://github.com/BrotherHwan/Temperature_control_system/blob/main/image_video/C%23%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
+원본영상(이 링크의 raw file 다운로드시 좀 더 크고 명확한 영상을 확인하실 수 있습니다. ) : 
+https://github.com/BrotherHwan/Temperature_control_system/blob/main/image_video/Tem_Con_Sys.mp4
