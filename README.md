@@ -8,6 +8,10 @@ STM32CubeIDE, Visual Studio(.NET framework)
 ## 흐름도
 <img src="./image_video/temperature_flow.png" width=800 height=500>
 
+## 수행역할
+PC(C#)과 STM32간의 통신, GUI를 구성했습니다. 희망온도, 희망습도 데이터를 STM32에 넘겨줄 수 있게 했습니다.
+
+
 ## 시연영상
 <img src="./image_video/Tem_Con_Sys.gif" width=500 height=400>
 시연영상에 대한 설명<br/>
