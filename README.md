@@ -4,7 +4,7 @@ PC(C#)과 STM32를 통해 희망온도와 현재온도를 비교하여 에어컨
 ## 구성인원
 2명
 ## 기술스택
-![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/C#-03234B?style=for-the-badge&logo=C#&logoColor=white) ![d](https://img.shields.io/badge/.Net_framework-FF6F00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/C%23-03234B?style=for-the-badge&logo=C%23&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio-FF6F00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/.Net_framework-FF6F00?style=for-the-badge&logo=.Net_framework&logoColor=white)  
 ## 사용 디바이스
 stm32f411, 온습도센서, Red LED(히터역할), DC motor&프로펠러(에어컨역할)
 ## 개발환경
