@@ -6,7 +6,8 @@ PC(C#)과 STM32를 통해 희망온도와 현재온도를 비교하여 에어컨
 ## 기술스택
 ![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![c](https://img.shields.io/badge/C%23-03234B?style=for-the-badge&logo=C%23&logoColor=white) ![d](https://img.shields.io/badge/Visual_Studio-FF6F00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![e](https://img.shields.io/badge/.Net_framework-FF6F00?style=for-the-badge&logo=.Net_framework&logoColor=white)  
 ## 역할
-C#과 Visual studio(.Net framework)를 이용하여 GUI구현, PC와 STM32 통신
+-C#과 Visual studio(.Net framework)를 이용하여 GUI구현 <br/>
+-PC와 STM32 통신 <br/>
 ## 흐름도
 <img src="./image_video/temperature_flow.png" width=800 height=500>
 
